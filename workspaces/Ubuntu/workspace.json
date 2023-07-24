@@ -1,6 +1,6 @@
 {
   "friendly_name": "Ubuntu",
-  "image_src": "blob:https://journeyman32.github.io/bd33d88d-7ab5-4c64-a097-9074e9e7ea63",
+  "image_src": "ubuntu.png",
   "description": "Ubuntu",
   "name": "ubuntu:latest",
   "cores": 2,
